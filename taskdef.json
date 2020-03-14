@@ -35,7 +35,7 @@
       "memoryReservation": 128,
       "volumesFrom": [],
       "stopTimeout": null,
-      "image": "<IMAGE1_NMAE>",
+      "image": "749088078640.dkr.ecr.us-west-1.amazonaws.com/node-app:latest",
       "startTimeout": null,
       "firelensConfiguration": null,
       "dependsOn": null,
