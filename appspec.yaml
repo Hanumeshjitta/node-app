@@ -5,5 +5,5 @@ Resources:
       Properties:
         TaskDefinition: <TASK_DEFINITION>
         LoadBalancerInfo:
-          ContainerName: "Studio-nodeapp"
-          ContainerPort: 8080
+          ContainerName: "demo"
+          ContainerPort: 3000
